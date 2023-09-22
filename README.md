@@ -1,1 +1,1 @@
-# Aiming-game
+# Aiming-game.github.io
